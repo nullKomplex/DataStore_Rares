@@ -1,0 +1,8 @@
+package-as: DataStore_Rares
+
+move-folders:
+ DataStore_Rares/DataStore_Rares: DataStore_Rares
+
+ignore:
+ - LICENCE.md
+ - README.md
