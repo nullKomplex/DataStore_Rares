@@ -2,7 +2,7 @@
 ## Title: DataStore_Rares
 ## Notes: Stores information about rare spawns killed
 ## Author: Teelo (Jubei'thos - US)
-## Version: 1
+## Version: @project-version@
 ## Dependencies: DataStore
 ## OptionalDeps: Ace3
 ## SavedVariables: DataStore_RaresDB
