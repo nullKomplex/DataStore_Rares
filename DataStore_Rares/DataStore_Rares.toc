@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: DataStore_Rares
 ## Notes: Stores information about rare spawns killed
 ## Author: Teelo (Jubei'thos - US)
