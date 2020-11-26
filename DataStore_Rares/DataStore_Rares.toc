@@ -13,7 +13,9 @@
 DataStore_Rares.lua
 
 Data/ArathiWarfront.lua
+Data/Ardenweald.lua
 Data/Argus.lua
+Data/Bastion.lua
 Data/BFABase.lua
 Data/BrokenShore.lua
 Data/DarkshoreWarfront.lua
